@@ -1,0 +1,10 @@
+{
+  "data": {
+    "product": {
+      "id": 1,
+      "name": "laptop",
+      "quantity": 20
+    },
+    "message": "updated successfully"
+  }
+}

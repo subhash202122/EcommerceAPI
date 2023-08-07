@@ -1,0 +1,16 @@
+{
+  "request": {
+    "product": {
+      "name": "laptop",
+      "quantity": 10
+    }
+  },
+  "response": {
+    "data": {
+      "product": {
+        "name": "laptop",
+        "quantity": 10
+      }
+    }
+  }
+}
