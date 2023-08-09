@@ -42,7 +42,8 @@ npm install
 
 1. Start the Node.js server.
 
-
+node index.js 
+or
 npm start
 
 
