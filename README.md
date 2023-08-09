@@ -79,9 +79,6 @@ You can use tools like Postman to test the API. Here are some example requests:
   - Method: POST
   - URL: http://localhost:3000/products/:id/update_quantity/?number=:number
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 Please note that in the above README.md, I assumed that the MongoDB server is running locally on the default port (27017). If you have MongoDB running on a different port or remote server, you will need to update the connection string accordingly in the `index.js` file.
 
